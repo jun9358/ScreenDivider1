@@ -1,0 +1,120 @@
+//{{NO_DEPENDENCIES}}
+// Microsoft Visual C++ generated include file.
+// Used by win32.rc
+//
+#define IDC_MYICON                      2
+#define IDD_BOARD                       101
+#define IDD_WIN32_DIALOG                102
+#define IDD_FINDER                      102
+#define IDS_APP_TITLE                   103
+#define IDD_ABOUTBOX                    103
+#define IDD_ABOUT                       103
+#define IDD_SETTING_ABOUT               103
+#define IDM_ABOUT                       104
+#define IDD_ZONE                        104
+#define IDI_WIN32                       107
+#define IDI_SMALL                       108
+#define IDC_WIN32                       109
+#define IDR_MAINFRAME                   128
+#define IDR_TRAY                        129
+#define IDB_LISTITE                     130
+#define IDB_BUTTON_CLOSE                135
+#define IDC_CURSOR1                     136
+#define IDC_FINDER                      136
+#define IDB_FINDER                      137
+#define IDD_ZONE_GROUP                  141
+#define IDD_TOOLBAR                     142
+#define IDD_TRANSPARENT                 143
+#define IDB_TOOLBARITEM                 144
+#define IDD_SETTING_HOTKEY              145
+#define IDD_SETTING_NORMAL              146
+#define IDD_SETTING_HOTKEY_EDIT         147
+#define IDR_RT_MANIFEST1                149
+#define IDR_RT_MANIFEST                 149
+#define IDC_BUTTON_CLOSE                1005
+#define IDC_BUTTON_FINDER               1006
+#define IDC_EDIT_TITLE                  1008
+#define IDC_EDIT_SUBJECT                1008
+#define IDC_STATIC_RECT                 1009
+#define IDC_EDIT_TITLE2                 1009
+#define IDC_EDIT_X                      1010
+#define IDC_EDIT_WIDTH                  1011
+#define IDC_EDIT_Y                      1012
+#define IDC_PICTURE_FINDER              1013
+#define IDC_EDIT_HEIGHT                 1013
+#define IDC_EDIT_FILEPATH               1014
+#define IDC_ZONEGROUP_EDIT_PATH         1014
+#define IDC_EDIT_CLASSNAME              1015
+#define IDC_STATIC_                     1016
+#define IDC_STATIC_CLASSNAME_           1017
+#define IDC_STATIC_CAPTION_             1018
+#define IDC_COMBO_SUBJECT               1019
+#define IDC_BUTTON_SYNC                 1020
+#define IDC_STATIC_CAPTION              1021
+#define IDC_STATIC_DRAGFINDER           1022
+#define IDC_STATIC_CLASS                1023
+#define IDC_STATIC_PATH                 1024
+#define IDC_FINDER_STATIC_PATH          1024
+#define IDC_STATIC_X2                   1026
+#define IDC_STATIC_X                    1026
+#define IDC_STATIC_SUBJECT              1027
+#define IDC_ZONEGROUP_STATIC_X          1028
+#define IDC_STATIC_WIDTH                1029
+#define IDC_ZONEGROUP_STATIC_WIDTH      1029
+#define IDC_ZONEGROUP_STATIC_Y          1030
+#define IDC_STATIC_X3                   1030
+#define IDC_STATIC_HEIGHT               1030
+#define IDC_ZONEGROUP_STATIC_HEIGHT     1031
+#define IDC_STATIC_HEIGHT_              1031
+#define IDC_CHECK_AUTORUN               1032
+#define IDC_STATIC_X4                   1032
+#define IDC_STATIC_Y                    1032
+#define IDC_CHECK_AUTORESIZE            1033
+#define IDC_SLIDER_TRANSPARENT          1038
+#define IDC_STATIC_CLASSNAME            1040
+#define IDC_STATIC_X_                   1041
+#define IDC_STATIC_WIDTH_               1042
+#define IDC_STATIC_X_2                  1043
+#define IDC_STATIC_Y_                   1043
+#define IDC_STATIC_PATH_                1045
+#define IDC_FINDER_STATIC_PATH_         1045
+#define IDC_ZONEGROUP_STATIC_PATH       1046
+#define IDC_LIST_HOTKEY                 1047
+#define IDC_BUTTON_ADD                  1051
+#define IDC_BUTTON_MODIFY               1052
+#define IDC_CHECK_RUN                   1052
+#define IDC_BUTTON_DELETE               1053
+#define IDC_GROUP_RUN_FORM              1060
+#define IDC_STATIC_HOTKEY_FORM          1061
+#define IDC_HOTKEY_RUN_FORM             1063
+#define IDC_STATIC_PATH_FORM            1064
+#define IDC_EDIT_PATH_FORM              1065
+#define IDC_BUTTON_FILE_OPEN            1066
+#define IDC_STATIC_PAUSE                1067
+#define IDC_HOTKEY_PAUSE                1069
+#define ID_TRAY_FORM                    32771
+#define ID_FORM_NEW                     32772
+#define ID_FORM_EDIT                    32773
+#define ID_TRAY_EXIT                    32774
+#define IDM_TRAY_EXIT                   32775
+#define IDM__TRAY_FORM_NEW              32777
+#define ID_TRAY_FORM_EDIT               32778
+#define IDM_TRAY_FORM_EDIT              32779
+#define IDM_TRAY_FORM_NEW               32780
+#define ID_ASDF                         32781
+#define ID_TRAY_SETTING                 32786
+#define IDM_TRAY_SETTING                32787
+#define IDM_TRAY_FORM_OPEN              32788
+#define IDC_STATIC                      -1
+
+// Next default values for new objects
+// 
+#ifdef APSTUDIO_INVOKED
+#ifndef APSTUDIO_READONLY_SYMBOLS
+#define _APS_NO_MFC                     1
+#define _APS_NEXT_RESOURCE_VALUE        150
+#define _APS_NEXT_COMMAND_VALUE         32789
+#define _APS_NEXT_CONTROL_VALUE         1070
+#define _APS_NEXT_SYMED_VALUE           110
+#endif
+#endif

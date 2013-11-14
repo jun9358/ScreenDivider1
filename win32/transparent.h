@@ -1,0 +1,1 @@
+BOOL CALLBACK dlgTransparentProc(HWND hDlg, UINT message, WPARAM wParam, LPARAM lParam);
