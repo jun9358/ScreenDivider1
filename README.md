@@ -4,8 +4,10 @@ ScreenDivider is an monitor divider that divide any size user want.
 
 ## System requirements
 ScreenDivider is known to compile and pass its test suite on:
+
 * Windows7 system
 * Visual Studio 2008
+
 ScreenDivider work on same architecture only.
 
 ## Facilities
